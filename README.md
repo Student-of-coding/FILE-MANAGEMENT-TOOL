@@ -87,4 +87,8 @@ This is **not just a basic utility**, but also a **learning tool** — helping b
 
 ---
 
+##OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/7293c63c-78fc-423e-a521-1441b47c650a)
+
 📌 *This tool is useful for anyone learning Windows API or implementing simple desktop utilities. Whether you are a student, educator, or hobbyist — the FILE MANAGEMENT TOOL helps you understand C++ file I/O in a hands-on manner.*
