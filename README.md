@@ -43,7 +43,7 @@ This is **not just a basic utility**, but also a **learning tool** — helping b
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/FILE-MANAGEMENT-TOOL.git
+   git clone https://github.com/Student-of-coding/FILE-MANAGEMENT-TOOL.git
    cd FILE-MANAGEMENT-TOOL
    ```
 2. Compile using MinGW:
